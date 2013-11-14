@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "liveboxtv"  : {
+      "description": "Permet de commander la Box Orange (voir la documentation).",
+      "version" : "1.0",
+      "adress_ip": ""
+    }
+  }
+}
