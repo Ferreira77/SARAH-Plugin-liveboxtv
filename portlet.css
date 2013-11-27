@@ -1,0 +1,10 @@
+
+.plugin-gridster.liveboxtv .front {
+  background: #FFFFFF url('image/liveboxtv.gif') center 10px;
+  background-size:   140px 140px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.liveboxtv .back {
+  background: #FFFFFF;
+}
