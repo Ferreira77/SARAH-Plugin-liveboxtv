@@ -8,7 +8,9 @@
 	  <item>Tu voie la laveboxe                <tag>out.action.key="O999";</tag></item>
 	  <item>Tu voie la liveboxe                <tag>out.action.key="O999";</tag></item>
       <item>allumé la laveboxe                 <tag>out.action.key="O116";</tag></item>
-  	  <item>éteindre la laveboxe               <tag>out.action.key="O116";</tag></item>
+  	  <item>éteindre la laveboxe            <tag>out.action.key="O116";</tag></item>
+  	  <item>passe en plein écran		<tag>out.action.key="O402";</tag></item>
+	  <item>mozaïque							<tag>out.action.key="0";</tag></item>
       <item>coupe le son de la laveboxe        <tag>out.action.key="O113";</tag></item>
       <item>remets le son de la laveboxe       <tag>out.action.key="O113";</tag></item>
       <item>baisse le son de la laveboxe       <tag>out.action.key="O114";</tag></item>
